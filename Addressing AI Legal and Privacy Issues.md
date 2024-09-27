@@ -2,16 +2,28 @@
 
 As AI technology continues to evolve, so will the legal and ethical challenges it presents. While AI offers immense benefits in fields like healthcare, finance, and customer service, it also raises complex questions about data privacy, security, and the rights of individuals. Businesses and policymakers alike need to work together to develop a comprehensive framework that protects individual privacy while allowing AI to flourish.
 
-A particularly alarming example of this issue is the rise of AI-generated deepfakes, where machine learning is used to create hyper-realistic fake images or videos of individuals, often without their consent. **Popular actors and singers, such as Scarlett Johansson and Gal Gadot, have been victims of this technology, with AI-generated pornographic content featuring their likenesses being circulated online.** These deepfake images and videos are not only damaging to the reputation and privacy of these celebrities, but they also raise broader concerns about consent, misuse of personal data, and the psychological harm inflicted on victims.
+![](AI.png)
+
+A particularly alarming example of this issue is the rise of AI-generated deepfakes, where machine learning is used to create hyper-realistic fake images or videos of individuals, often without their consent. **Popular actors and singers, such as Scarlett Johansson and Gal Gadot, have been victims of this technology, with AI-generated pornographic content featuring their likenesses being circulated online.** 
+
+![](Deepfake.png)
+
+These deepfake images and videos are not only damaging to the reputation and privacy of these celebrities, but they also raise broader concerns about consent, misuse of personal data, and the psychological harm inflicted on victims.
 
 The use of deepfake technology to manipulate video and audio for malicious purposes -- whether it's to stoke violence or defame politicians and journalists -- is becoming a real threat. As these tools become more accessible and their products more realistic, how will they shape what we believe about the world? In a portentous talk, law professor Danielle Citron reveals how deepfakes magnify our distrust -- and suggests approaches to safeguarding the truth. [This is an external link to Ted Talk](https://www.ted.com/talks/danielle_citron_how_deepfakes_undermine_truth_and_threaten_democracy?subtitle=en/) 
+
+![](DaneilleCitron.png)
 
 
 Deepfakes have made it frighteningly easy for bad actors to manipulate images and create explicit content, blurring the lines between reality and fabrication. This has led to calls for stricter legal regulations around the use of AI in generating such content. While some countries have enacted laws against non-consensual deepfake pornography, the global nature of the internet makes it difficult to enforce these laws consistently. This example starkly illustrates the risks posed by unchecked AI development and the urgent need for policies that govern the ethical use of such technologies.
 
 One of the primary concerns surrounding AI is its reliance on vast amounts of personal data. The rise of AI in areas like facial recognition and surveillance technologies raises serious ethical concerns. While these tools can be beneficial for security purposes, they also pose threats to civil liberties if misused. The potential for mass surveillance without adequate checks and balances threatens individual freedoms and could erode trust in both governments and corporations.
 
-An example that brings these concerns into the public eye involves **Taylor Swift and her use of facial recognition technology at one of her concerts. In 2018, Swift’s security team installed a facial recognition kiosk at her Rose Bowl concert to scan the faces of attendees. The system was reportedly used to identify potential stalkers from a database of known offenders.** While this may seem like a reasonable security measure, it raises significant legal and privacy questions: Did attendees consent to having their faces scanned? Who has access to the data collected? How is it stored and used after the event?
+An example that brings these concerns into the public eye involves **Taylor Swift and her use of facial recognition technology at one of her concerts. In 2018, Swift’s security team installed a facial recognition kiosk at her Rose Bowl concert to scan the faces of attendees. The system was reportedly used to identify potential stalkers from a database of known offenders.** 
+
+![](facial_recognition.png)
+
+While this may seem like a reasonable security measure, it raises significant legal and privacy questions: Did attendees consent to having their faces scanned? Who has access to the data collected? How is it stored and used after the event?
 
 AI systems often require significant data inputs to function effectively, including sensitive information such as medical records, financial transactions, and behavioral patterns. Without proper safeguards, the collection, storage, and processing of such data can lead to privacy breaches or misuse. The GDPR in Europe, the California Consumer Privacy Act (CCPA), and other emerging global regulations have already set standards for data protection, but AI's capacity to infer new information from datasets makes even anonymized data vulnerable.
 
@@ -27,6 +39,8 @@ Any potential framework shoould includes following"
 
 ### Who Owns Your Data?
 
+![](who_owns_data.jpg)
+
 AI systems need a lot of data to work well. This data can include personal details like your browsing history, purchase records, and even facial recognition data. This raises important questions: Who owns this data? Is it the person it describes, the company that collects it, or the AI system that uses it? Clear ownership rules are essential to make sure people have control over their personal information.
 
 [Few interesting case studies are in this video](https://www.youtube.com/watch?v=q86RKI-uZSc)
@@ -38,6 +52,8 @@ Once an AI system is trained on this data, another question comes up: who owns t
 Understanding data ownership goes beyond simply storing data on different servers. It's about distinguishing between the data used to train the AI and the AI's learned behavior and performance. This difference helps make sure that peoples' personal information is protected while also clarifying who owns and controls the AI systems and their outputs.
 
 ### Data Transparency
+
+![](data_transparency.jpg)
 
 How much do you know about how AI uses your data? Many AI algorithms are complex and are difficult to understand. This lack of transparency makes it hard for individuals to know how their data is being used and whether it's being used responsibly.
 
