@@ -1,4 +1,4 @@
-This has 1 hour of teaching content to understand legal and private issues with Artificial Intelligence. It contains following:
+This has 1 hour of teaching content to understand legal and private issues with Artificial Intelligence. It contains the following:
 
 1. Overview of AI and Information Privacy (14 mins)
 2. Navigating Legal Issues related to Privacy Concerns with AI in Business (13 Mins)
