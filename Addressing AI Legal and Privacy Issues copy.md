@@ -6,13 +6,13 @@ As AI technology continues to evolve, so will the legal and ethical challenges i
 
 A particularly alarming example of this issue is the rise of AI-generated deepfakes, where machine learning is used to create hyper-realistic fake images or videos of individuals, often without their consent. **Popular actors and singers, such as Scarlett Johansson and Gal Gadot, have been victims of this technology, with AI-generated pornographic content featuring their likenesses being circulated online.** 
 
-<img src="./images/Deepfake.png" width="150" height="80">
+<img src="./images/Deepfake.png" width="200" height="120">
 
 These deepfake images and videos are not only damaging to the reputation and privacy of these celebrities, but they also raise broader concerns about consent, misuse of personal data, and the psychological harm inflicted on victims.
 
 The use of deepfake technology to manipulate video and audio for malicious purposes -- whether it's to stoke violence or defame politicians and journalists -- is becoming a real threat. As these tools become more accessible and their products more realistic, how will they shape what we believe about the world? In a portentous talk, law professor Danielle Citron reveals how deepfakes magnify our distrust -- and suggests approaches to safeguarding the truth. [This is an external link to Ted Talk](https://www.ted.com/talks/danielle_citron_how_deepfakes_undermine_truth_and_threaten_democracy?subtitle=en/) 
 
-<img src="./images/DaneilleCitron.png" width="200" height="100">
+<img src="./images/DaneilleCitron.png" width="200" height="120">
 
 
 Deepfakes have made it frighteningly easy for bad actors to manipulate images and create explicit content, blurring the lines between reality and fabrication. This has led to calls for stricter legal regulations around the use of AI in generating such content. While some countries have enacted laws against non-consensual deepfake pornography, the global nature of the internet makes it difficult to enforce these laws consistently. This example starkly illustrates the risks posed by unchecked AI development and the urgent need for policies that govern the ethical use of such technologies.
@@ -21,7 +21,7 @@ One of the primary concerns surrounding AI is its reliance on vast amounts of pe
 
 An example that brings these concerns into the public eye involves **Taylor Swift and her use of facial recognition technology at one of her concerts. In 2018, Swift’s security team installed a facial recognition kiosk at her Rose Bowl concert to scan the faces of attendees. The system was reportedly used to identify potential stalkers from a database of known offenders.** 
 
-<img src="./images/facial_recognition.png" width="200" height="110">
+<img src="./images/facial_recognition.png" width="200" height="120">
 
 While this may seem like a reasonable security measure, it raises significant legal and privacy questions: Did attendees consent to having their faces scanned? Who has access to the data collected? How is it stored and used after the event?
 
