@@ -2,17 +2,17 @@
 
 As AI technology continues to evolve, so will the legal and ethical challenges it presents. While AI offers immense benefits in fields like healthcare, finance, and customer service, it also raises complex questions about data privacy, security, and the rights of individuals. Businesses and policymakers alike need to work together to develop a comprehensive framework that protects individual privacy while allowing AI to flourish.
 
-<img src="./images/AI.png" width="200" height="100">
+<img src="./images/AI.png" width="340" height="180">
 
 A particularly alarming example of this issue is the rise of AI-generated deepfakes, where machine learning is used to create hyper-realistic fake images or videos of individuals, often without their consent. **Popular actors and singers, such as Scarlett Johansson and Gal Gadot, have been victims of this technology, with AI-generated pornographic content featuring their likenesses being circulated online.** 
 
-<img src="./images/Deepfake.png" width="200" height="120">
+<img src="./images/Deepfake.png" width="300" height="180">
 
 These deepfake images and videos are not only damaging to the reputation and privacy of these celebrities, but they also raise broader concerns about consent, misuse of personal data, and the psychological harm inflicted on victims.
 
 The use of deepfake technology to manipulate video and audio for malicious purposes -- whether it's to stoke violence or defame politicians and journalists -- is becoming a real threat. As these tools become more accessible and their products more realistic, how will they shape what we believe about the world? In a portentous talk, law professor Danielle Citron reveals how deepfakes magnify our distrust -- and suggests approaches to safeguarding the truth. [This is an external link to Ted Talk](https://www.ted.com/talks/danielle_citron_how_deepfakes_undermine_truth_and_threaten_democracy?subtitle=en/) 
 
-<img src="./images/DaneilleCitron.png" width="200" height="120">
+<img src="./images/DaneilleCitron.png" width="300" height="180">
 
 
 Deepfakes have made it frighteningly easy for bad actors to manipulate images and create explicit content, blurring the lines between reality and fabrication. This has led to calls for stricter legal regulations around the use of AI in generating such content. While some countries have enacted laws against non-consensual deepfake pornography, the global nature of the internet makes it difficult to enforce these laws consistently. This example starkly illustrates the risks posed by unchecked AI development and the urgent need for policies that govern the ethical use of such technologies.
@@ -21,7 +21,7 @@ One of the primary concerns surrounding AI is its reliance on vast amounts of pe
 
 An example that brings these concerns into the public eye involves **Taylor Swift and her use of facial recognition technology at one of her concerts. In 2018, Swift’s security team installed a facial recognition kiosk at her Rose Bowl concert to scan the faces of attendees. The system was reportedly used to identify potential stalkers from a database of known offenders.** 
 
-<img src="./images/facial_recognition.png" width="200" height="120">
+<img src="./images/facial_recognition.png" width="300" height="200">
 
 While this may seem like a reasonable security measure, it raises significant legal and privacy questions: Did attendees consent to having their faces scanned? Who has access to the data collected? How is it stored and used after the event?
 
@@ -39,7 +39,7 @@ Any potential framework shoould includes following"
 
 ### Who Owns Your Data?
 
-<img src="./images/who_owns_data.jpg" width="200" height="100">
+<img src="./images/who_owns_data.jpg" width="300" height="180">
 
 AI systems need a lot of data to work well. This data can include personal details like your browsing history, purchase records, and even facial recognition data. This raises important questions: Who owns this data? Is it the person it describes, the company that collects it, or the AI system that uses it? Clear ownership rules are essential to make sure people have control over their personal information.
 
@@ -53,7 +53,7 @@ Understanding data ownership goes beyond simply storing data on different server
 
 ### Data Transparency
 
-<img src="./images/data_transparency.jpg" width="200" height="100">
+<img src="./images/data_transparency.jpg" width="300" height="180">
 
 How much do you know about how AI uses your data? Many AI algorithms are complex and are difficult to understand. This lack of transparency makes it hard for individuals to know how their data is being used and whether it's being used responsibly.
 

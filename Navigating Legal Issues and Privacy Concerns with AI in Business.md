@@ -1,4 +1,4 @@
-# Introduction
+    # Introduction
 
 Navigating legal issues and privacy concerns in AI is crucial for businesses to avoid potential penalties and to maintain trust with customers. AI systems often rely on vast amounts of personal data, raising significant concerns around privacy, compliance, and ethical use of information.
 
@@ -9,7 +9,7 @@ In today's business environment, AI applications must comply with a range of leg
 
 Healthcare AI systems must navigate the Health Insurance Portability and Accountability Act (HIPAA) in the U.S., which governs the use of protected health information (PHI). Meanwhile, India's Personal Data Protection Bill is shaping up to be a major regulatory framework for handling personal data, with strict rules on how data of Indian residents can be processed and shared. Companies using AI must ensure their systems are compliant with these regulations, or they risk significant penalties and damage to customer trust.
 
-<img src="./images/Legal Laws.png" width="200" height="120">
+<img src="./images/Legal Laws.png" width="300" height="180">
 
 In addition to GDPR, CCPA, HIPAA, and others Personal Data Protection Bill, other regulations are emerging across the world to address AI's growing influence. For instance, China’s Personal Information Protection Law (PIPL) is one of the latest and most comprehensive data privacy regulations, aimed at protecting Chinese citizens' personal information. PIPL requires companies to obtain explicit consent before collecting and processing personal data, especially when it involves cross-border data transfers. Its enforcement signals a broader trend towards stricter data privacy rules in Asia.
 
@@ -25,7 +25,7 @@ AI relies on vast amounts of personal and sensitive data, and privacy concerns a
 
 Many AI systems today often collect user data without obtaining explicit consent, and they frequently lack clarity regarding how this data will be utilized. This lack of transparency can lead to privacy violations and erode user trust. To mitigate these risks, businesses must establish clear and transparent consent mechanisms that ensure users are adequately informed about data collection practices and have the opportunity to agree to them upfront. This proactive approach not only aligns with legal requirements but also enhances customer trust and loyalty.
 
-<img src="./images/Informconsent.jpg" width="200" height="120">
+<img src="./images/Informconsent.jpg" width="300" height="180">
 
 To effectively address these privacy concerns, adopting a **privacy by design** framework is crucial. This approach involves integrating privacy features, such as data anonymization and minimization, directly into AI systems from their inception. For instance, e-commerce companies should focus on collecting only the essential data necessary for operations, such as purchase history, while limiting the collection of sensitive personal information. By prioritizing privacy at the design stage, organizations can create AI systems that are not only compliant with regulations but also respectful of user privacy, fostering a culture of accountability and trust.
 
@@ -62,7 +62,7 @@ Businesses can employ several privacy-preserving AI techniques to mitigate priva
 
 AI governance refers to the frameworks, regulations, and guidelines that govern the development, adoption, and application of AI technology. It has gained significant attention as governments and organizations recognize the importance of responsible AI practices that uphold moral values, transparency, and societal benefits. Effective AI governance addresses critical issues like privacy, bias, justice, accountability, and safety. Businesses must stay informed about emerging laws and policies to ensure compliance in their AI systems’ creation and deployment. This involves integrating ethical considerations into AI development processes, conducting regular audits and risk assessments, and fostering transparency by providing justifications for AI-driven decisions.
 
-<img src="./images/Artificial Framework.jpg" width="200" height="120">
+<img src="./images/Artificial Framework.jpg" width="300" height="200">
 
 
 **a. Manage AI Models** </br>
